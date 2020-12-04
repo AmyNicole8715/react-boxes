@@ -22,5 +22,9 @@
     border: 3px solid black;
 }
 html {
-    background-image: starrynight;
+    background-image: url('E:\Users\dchec\Javascript\react-boxes\src\assets\images\starrynight.jpg');
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;
+    height: 100%;
 }
